@@ -1,6 +1,6 @@
 # Graph-Quality
 
-Code to reproduce results for the paper submission. Also modified popular PyTerrier library (pyterrier_dr) for below experiments. The modifications are also present in this repository.
+Code to reproduce results for the paper 'On the Interplay Between Graph Quality, Traversal Strategies, and Performance of ANN Retrieval Methods' published at SIGIR AP 2025. Also modified popular PyTerrier library (pyterrier_dr) for below experiments. The modifications are also present in this repository.
 
 ## build_nn_graph.py
 
